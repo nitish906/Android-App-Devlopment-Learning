@@ -1,9 +1,9 @@
 # App-Devlopment-Learning
 
 - Days-01 : Android Studio OverView
-- Days-02 : View,Type of View, TextView and Image View
-- Days-03 : Parent and Child View
-- Days-04 : Layout, Linear Layout,Vertical,Horizontal Views
+- Days-02 : View,Type of View, TextView and Image View,Parent and Child View
+- Days-03 : Layout, Linear Layout,Vertical,Horizontal Views & Layout
+- Days-04 : 
 - Days-05 : Weights,Image and Text View Linear Layout
 - Days-06 : Relative Layout Positioning and Attributes
 - Days-07 : Relative Layout Telative to The Parent
