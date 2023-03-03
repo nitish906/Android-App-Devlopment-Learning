@@ -1,13 +1,13 @@
 # App-Devlopment-Learning
 
-- Days-01 : Android Studio OverView
-- Days-02 : View,Type of View, TextView and Image View,Parent and Child View
-- Days-03 : Layout, Linear Layout,Vertical,Horizontal Views & Layout
-- Days-04 : Weights,Image and Text View Linear Layout 
-- Days-05 : Relative Layout Positioning and Attributes & Arrangmen
-- Days-06 : Relative Layout Relative to the Parent  & Telative to The Parent
-- Days-07 : Layout Finalization, Padding Vs Margin
-- Days-08 : Padding Application in Layout 
+- Days-01 : Android - Introduction, Components, Structure & Build Process
+- Days-02 : Android - Activity and its Lifecycle importance
+- Days-03 : Android - Saving UI states
+- Days-04 : 
+- Days-05 : 
+- Days-06 : 
+- Days-07 : 
+- Days-08 : 
 - Days-09 : Portfolio UI Application (mini Project)
 - Days-10 : 
 - Days-11 : 
