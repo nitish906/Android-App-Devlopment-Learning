@@ -2,7 +2,7 @@
 
 - Days-01 : Android - Introduction, Components, Structure & Build Process
 - Days-02 : Android - Activity and its Lifecycle importance
-- Days-03 : Android - Saving UI states
+- Days-03 : Android - Saving UI states & Layout/types of Layout
 - Days-04 : 
 - Days-05 : 
 - Days-06 : 
