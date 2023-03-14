@@ -1,1 +1,8 @@
 Welcome to the Android Devlopment By Masai School
+
+
+1. Design an Android app with the below requirement
+
+The app must have two activities
+The first activity has a button and on click of the button launch second activity
+Observe the lifecycle method changes in both the activities
